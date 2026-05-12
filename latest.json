@@ -1,0 +1,11 @@
+{
+  "version": "2.0.1",
+  "notes": "Добавлена бежевая тема!",
+  "pub_date": "2026-05-12T04:05:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/SPIDIKSY/spididy-public/releases/download/v2.0.1/SPIDIDY_2.0.1_x64-setup.exe"
+    }
+  }
+}
